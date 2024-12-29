@@ -1,6 +1,6 @@
-# 🎓 Study Timer App
+# 🎓 StudySync
 
-The Study Timer App is a web-based application designed to help you track and manage your study sessions. It allows users to create an account, log in, add subjects, start and stop study timers, and track the time spent on each subject. The app also stores your study progress, making it easy to monitor your learning habits over time.
+The StudySync App is a web-based application designed to help you track and manage your study sessions. It allows users to create an account, log in, add subjects, start and stop study timers, and track the time spent on each subject. The app also stores your study progress, making it easy to monitor your learning habits over time.
 
 ## Features
 
