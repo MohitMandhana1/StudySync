@@ -15,7 +15,9 @@ The StudySync App is a web-based application designed to help you track and mana
 - **Frontend**: Streamlit
 - **Backend**: Python
 - **Storage**: In-memory (using Streamlit session state for simplicity)
-##Deployed Application Link
+
+
+## Deployed Application Link
 https://studysyncin.streamlit.app/
 
 ## How to Use
